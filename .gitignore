@@ -1,0 +1,8 @@
+# Eclipse
+/.project
+
+# IntelliJ
+/.idea
+
+# Maven
+/target
